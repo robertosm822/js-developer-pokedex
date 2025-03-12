@@ -22,3 +22,11 @@ body {
         border-radius: 1rem;
     }
 }
+
+.back-to-home {
+    align-items: flex-end;
+    text-align: left;
+    margin-left: 10px;
+    list-style: none;
+    text-decoration: none;
+}
